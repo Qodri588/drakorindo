@@ -1,4 +1,4 @@
-name: hug
+name: publish
 
 on:
   push:
